@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/Save.ico</file>
+        <file>img/calculadora (1).png</file>
+        <file>img/cerrar (2).png</file>
+        <file>img/estadistica.png</file>
+    </qresource>
+</RCC>
